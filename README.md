@@ -1,1 +1,1 @@
-# web-dev-portfolio
+A clean and interactive Dictionary App built using HTML, CSS and JavaScript.Search any English word and instantly get its meaning, prounciation, example sentence - all in a simple and elegant interface.
